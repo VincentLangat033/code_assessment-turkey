@@ -15,6 +15,7 @@ messages?
 - Optimization: Does the program implement any optimization techniques to efficiently generate
 the Fibonacci sequence?
 
+### A snapshot of error handling and display of meaningful error messages
 ![image](fibonacci.png)
 
 # TASK TWO
