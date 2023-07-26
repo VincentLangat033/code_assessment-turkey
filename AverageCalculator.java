@@ -5,10 +5,7 @@ public class AverageCalculator {
             total += num;
         }
         double average = (double) total / numbers.length;
-        /*
-The possible error in the code above is caused by  ( total / numbers.length) integer division
-To fix this error, the division is done using floating point division
-*/
+
         return average;
     }
 
@@ -18,3 +15,8 @@ To fix this error, the division is done using floating point division
         System.out.println("The average is: " + result);
     }
 }
+/*
+
+The possible error in the code above is caused by  ( total / numbers.length) integer division
+To fix this error, the division is done using floating point division
+*/
