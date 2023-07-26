@@ -22,6 +22,7 @@ the Fibonacci sequence?
 ### Implement a function in Java programming language that takes a list of integers as input and returns the largest difference between any two numbers in the list. For example, given the input [1, 9, 3,7], the function should return 8, as the largest difference is between 1 and 9.
   
 ### Implementation of the solution
+
 ![image](largestdifference.png)
 # TASK THREE - employee_query.sql
 
@@ -37,8 +38,8 @@ Assume the database is already set up and accessible.
 - Clarity and readability: Is the query easy to understand and maintain?
 - Familiarity with SQL: Does the query demonstrate a good understanding of SQL syntax and concepts?
 ### Solution
--Combine WHERE && AND clause to meet the conditions.
--The query selects only the necessary columns instead of using selecting All.
+- Combine WHERE && AND clause to meet the conditions.
+- The query selects only the necessary columns instead of using selecting All.
 # TASK 4 
 ### Identification of bug
 ### Evaluation Criteria:
