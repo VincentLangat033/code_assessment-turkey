@@ -20,16 +20,19 @@ public class Fibonacci {
         boolean validInput = true;
         // Use while to handle negative input errors
         while (validInput) {
+            System.out.println(" ");
             System.out.print(" Enter a number to generate a sequence upto that number : ");
             try {
                 user_input = scanner.nextInt();
                 if (user_input < 0) {
+                    System.out.println(" ");
                     System.out.println("Please enter a positive integer to validate this sequence.");
                 } else {
                     // set the validinput value to false
                     validInput = false;
                 }
             } catch (InputMismatchException e) {
+                System.out.println("");
                 System.out.println("Please enter a valid input, ensure its an integer");
                 //code to clear input
                 scanner.nextLine();
