@@ -17,7 +17,11 @@ the Fibonacci sequence?
 
 # TASK TWO
 ### Implement a function in Java programming language that takes a list of integers as input and returns the largest difference between any two numbers in the list. For example, given the input [1, 9, 3,7], the function should return 8, as the largest difference is between 1 and 9.
+  
 
+# TASK THREE
+
+### Assume you have a database table called "employees" with the following columns: "id" (integer), "name"(text), "age" (integer), and "salary" (float). Write a SQL query that selects all employees whose age isabove 30 and salary is above $50,000.
 
 
 
