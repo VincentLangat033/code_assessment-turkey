@@ -24,6 +24,16 @@ the Fibonacci sequence?
 ### Assume you have a database table called "employees" with the following columns: "id" (integer), "name"(text), "age" (integer), and "salary" (float). Write a SQL query that selects all employees whose age isabove 30 and salary is above $50,000.
 
 
+# TASK 4 
+### Identification of bug
+### Evaluation Criteria:
+- Identification of the bug: Does the candidate correctly identify the issue in the code?
+- Corrected code: Does the candidate provide a corrected version of the code that calculates the
+average correctly?
+- Problem-solving skills: Does the candidate approach the debugging process in a systematic
+manner?
+- Code quality: Is the corrected code well-structured, modular, and readable?
+
 
 
 
