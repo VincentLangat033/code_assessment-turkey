@@ -33,7 +33,7 @@ public class Fibonacci {
                 }
             } catch (InputMismatchException e) {
                 System.out.println("");
-                System.out.println("Please enter a valid input, ensure its an integer");
+                System.out.println("Please enter a valid input, ensure its a positive integer and not a character!");
                 //code to clear input
                 scanner.nextLine();
 
